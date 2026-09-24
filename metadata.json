@@ -1,0 +1,6 @@
+{
+  "name": "StudySync",
+  "description": "Comprehensive student companion featuring daily morning alarm & sleep routines, smart study & notes suggestions, identity document vault (Aadhar, PAN, IDs), and rich subject hubs with PDF study material, Q&A mastery, and direct YouTube video lectures with watch progress tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
